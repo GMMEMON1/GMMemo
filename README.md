@@ -70,7 +70,14 @@ I have authored multiple peer-reviewed publications in composite materials, ther
 - Google Scholar
 - Scopus Author ID: 57209209500
 
+## Professional Memberships
+
+- Saudi Council of Engineers (SCE) Membership No: **1205784**
+- Pakistan Engineering Council (PEC) Membership No: **TEXTILE/02243**
+
 ## Contact
 
-- Email: gh.mustafamemon@gmail.com
+- Email: [gh.mustafamemon@gmail.com](mailto:gh.mustafamemon@gmail.com)
+- Phone: [+966 50 106 4916](tel:+966501064916)
+- WeChat ID: **memongm**
 - GitHub: [GMMemo](https://github.com/GMMemo)
