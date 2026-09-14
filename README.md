@@ -2,6 +2,8 @@
 
 **Postdoctoral Research Fellow | Composite Materials | Physics-Informed Machine Learning | Multiphysics Modeling | Nuclear Energy Applications**
 
+> Currently employed and open to discussing exceptional future opportunities in research, academia, postdoctoral work, and industrial R&D.
+
 I am a Postdoctoral Research Fellow at the Interdisciplinary Research Center for Industrial Nuclear Energy (IRC-INE), King Fahd University of Petroleum & Minerals (KFUPM), Saudi Arabia.
 
 My work combines advanced fiber-reinforced composites, experimental characterization, physics-based computational modeling, machine learning, and nuclear energy applications. I develop and validate mathematical and data-driven models for complex engineering systems, with particular emphasis on composite manufacturing, resin impregnation, permeability, processing-structure-property relationships, and physics-informed neural networks.
